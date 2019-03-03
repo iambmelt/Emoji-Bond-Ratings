@@ -1,4 +1,4 @@
-# Emoji-Bond-Ratings (EBR)
+# Emoji Bond Ratings (EBR)
 ## Current working version `0.0.1`
 #### Tier Benchmark: Moody's
 Bond credit ratings, expressed as emojis.

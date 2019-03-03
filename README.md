@@ -1,5 +1,9 @@
-# Emoji-Bond-Ratings
-Bond credit ratings, expressed as emojis
+# Emoji-Bond-Ratings (EBR)
+## Current working version `0.0.1`
+#### Tier Benchmark: Moody's
+Bond credit ratings, expressed as emojis.
+
+Do you find it hard to understand credit ratings that _aren't_ represented as emoji? Struggle no more.
 
 <table>
   <tr>

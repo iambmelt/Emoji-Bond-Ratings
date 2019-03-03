@@ -7,16 +7,20 @@ Bond credit ratings, expressed as emojis
     <th>Short Term</th>
     <th>Long Term</th>
     <th>Short Term</th>
+    <th colspan="2">Rating Description</th>
   </tr>
   <tr>
     <td>Aaa</td>
     <td rowspan="6">P-1</td>
     <td>🌟</td>
     <td rowspan="6">🌠</td>
+    <td>Prime</td>
+    <td rowspan="7">Investment Grade</td>
   </tr>
   <tr>
     <td>Aa1</td>
     <td>⭐</td>
+    <td rowspan="3">High grade</td>
   </tr>
   <tr>
     <td>Aa2</td>
@@ -29,6 +33,7 @@ Bond credit ratings, expressed as emojis
   <tr>
     <td>A1</td>
     <td>🥓</td>
+    <td rowspan="3">Upper medium grade</td>
   </tr>
   <tr>
     <td>A2</td>
@@ -43,6 +48,8 @@ Bond credit ratings, expressed as emojis
   <tr>
     <td>Baa1</td>
     <td>🐄</td>
+    <td rowspan="3">Lower medium grade</td>
+    <td rowspan="15">"Junk" (Non-investment grade)</td>
   </tr>
   <tr>
     <td>Baa2</td>
@@ -59,6 +66,7 @@ Bond credit ratings, expressed as emojis
     <td rowspan="12">Not Prime</td>
     <td>🌤️</td>
     <td rowspan="12">🥵</td>
+    <td rowspan="3">Non-investment grade speculative</td>
   </tr>
   <tr>
     <td>Ba2</td>
@@ -71,6 +79,7 @@ Bond credit ratings, expressed as emojis
   <tr>
     <td>B1</td>
     <td>🌦️</td>
+    <td rowspan="3">Highly speculative</td>
   </tr>
   <tr>
     <td>B2</td>
@@ -83,14 +92,17 @@ Bond credit ratings, expressed as emojis
   <tr>
     <td>Caa1</td>
     <td>😔</td>
+    <td>Substantial risks</td>
   </tr>
   <tr>
     <td>Caa2</td>
     <td>🤯</td>
+    <td>Extremely speculative</td>
   </tr>
   <tr>
     <td>Caa3</td>
     <td>💣</td>
+    <td rowspan="2">Default imminent with little prospect for recovery</td>
   </tr>
   <tr>
     <td>Ca</td>
@@ -99,6 +111,7 @@ Bond credit ratings, expressed as emojis
   <tr>
     <td>C</td>
     <td>💩</td>
+    <td rowspan="2">In default</td>
   </tr>
   <tr>
     <td>/</td>
